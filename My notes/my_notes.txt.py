@@ -3,7 +3,7 @@
 
 with open("my_notes.txt", "w") as file:
     file.write("1. El lunes empezamos examenes en la UEA toca estudiar.\n")
-    file.write("2. Comprar un regalo a mi hermna por su cumpleaños.\n")
+    file.write("2. Comprar un regalo a mi hermana por su cumpleaños.\n")
     file.write("3. Tener todo lista para semana santa, llegan familiares a casa.\n")
 
 # 2. Lectura de Archivo de Texto:
